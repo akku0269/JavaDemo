@@ -60,6 +60,8 @@ public class Arraylist {
         l.add(true);
 
         System.out.println(l);
+        System.out.println();
+        
 
 
     }
